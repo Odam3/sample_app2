@@ -1,0 +1,15 @@
+current directory: /Users/odam/Desktop/ruby_lesson2/sample_app2/vendor/bundle/gems/bindex-0.8.1/ext/skiptrace
+/Users/odam/.rbenv/versions/2.6.1/bin/ruby -I /Users/odam/.rbenv/versions/2.6.1/lib/ruby/site_ruby/2.6.0 -r ./siteconf20190829-11079-1q1mwp4.rb extconf.rb
+creating Makefile
+
+current directory: /Users/odam/Desktop/ruby_lesson2/sample_app2/vendor/bundle/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" clean
+
+current directory: /Users/odam/Desktop/ruby_lesson2/sample_app2/vendor/bundle/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR="
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.bundle
+
+current directory: /Users/odam/Desktop/ruby_lesson2/sample_app2/vendor/bundle/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20190829-11079-yrmdd0/skiptrace/internal

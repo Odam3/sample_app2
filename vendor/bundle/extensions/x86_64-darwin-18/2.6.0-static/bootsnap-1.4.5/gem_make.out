@@ -1,0 +1,15 @@
+current directory: /Users/odam/Desktop/ruby_lesson2/sample_app2/vendor/bundle/gems/bootsnap-1.4.5/ext/bootsnap
+/Users/odam/.rbenv/versions/2.6.1/bin/ruby -I /Users/odam/.rbenv/versions/2.6.1/lib/ruby/site_ruby/2.6.0 -r ./siteconf20190829-11079-s6ejeq.rb extconf.rb
+creating Makefile
+
+current directory: /Users/odam/Desktop/ruby_lesson2/sample_app2/vendor/bundle/gems/bootsnap-1.4.5/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /Users/odam/Desktop/ruby_lesson2/sample_app2/vendor/bundle/gems/bootsnap-1.4.5/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/odam/Desktop/ruby_lesson2/sample_app2/vendor/bundle/gems/bootsnap-1.4.5/ext/bootsnap
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20190829-11079-flvtui/bootsnap
